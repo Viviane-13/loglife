@@ -1,16 +1,11 @@
 {
-    "users": [
+    "users": 
         {
             "email": "dev@loglife.com.br",
             "password": "loglife123",
             "username": "developer"
         },
-        {
-            "email": "teste@loglife.com.br",
-            "password": "loglife1234",
-            "username": "devTeste"
-        }
-    ],
+    ,
     "collect": [
         {
             "id": "1a98995f-5ec2-4e79-909b-511ace0dd293",
