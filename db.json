@@ -1,9 +1,4 @@
 {
-    "users": {
-            "email": "dev@loglife.com.br",
-            "password": "loglife123",
-            "username": "developer"
-    },
     "collect": [
         {
             "id": "1a98995f-5ec2-4e79-909b-511ace0dd293",
@@ -67,5 +62,10 @@
                 "cnpj_cpf": "00.000.000/0001-00"
             }
         }
-    ]
+    ],
+    "users": {
+            "email": "dev@loglife.com.br",
+            "password": "loglife123",
+            "username": "developer"
+    }
 }
